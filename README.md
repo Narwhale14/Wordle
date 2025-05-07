@@ -23,4 +23,4 @@ guess, it'll auto send on the 5th character and the game will process it. Any co
 are ALSO in the right spot, it'll lock it in for you to reference! Any correct letters that aren't in the right spot
 will be listed out underneath for you to remember.
 
-![foundLetters](readmeassets/image2.png)
+![foundLetters](readmeassets/image3.png)
