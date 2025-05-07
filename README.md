@@ -1,2 +1,3 @@
 # Wordle
-LC3 Wordle Recreation (CS155 Final)
+
+CS155 Final Project by Niall Murray. LC-3 recreation of The New York Time's hit game Wordle.
