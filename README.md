@@ -24,3 +24,9 @@ are ALSO in the right spot, it'll lock it in for you to reference! Any correct l
 will be listed out underneath for you to remember.
 
 ![foundLetters](readmeassets/image3.png)
+
+If you make a typo, don't worry! Just press **backspace** to clear your guess and have another try!
+
+---------------------------------------------------------------------------------------------------
+
+Have fun guessing!
